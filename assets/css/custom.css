@@ -1,0 +1,25 @@
+a#set-event-image {
+    background-color: #efefef;
+    border: 1px solid #d8d6d6;
+    padding: 8px;
+    color: #999999;
+    text-decoration: none;
+    box-shadow: 0 8px 6px -6px;
+    
+}
+a#set-event-image:hover{
+   background-color: #dbd8d8; 
+}
+a#remove-event-image {
+    background-color: #efefef;
+    border: 1px solid #d8d6d6;
+    padding: 8px;
+    color: #999999;
+    text-decoration: none;
+    margin-left: 5px;
+    box-shadow: 0 8px 6px -6px;
+    
+}
+a#remove-event-image:hover {
+    background-color: #dbd8d8;
+}
